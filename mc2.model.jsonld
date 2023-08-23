@@ -2275,7 +2275,7 @@
                 "@id": "http://schema.biothings.io"
             },
             "sms:displayName": "Dataset Name",
-            "sms:required": "sms:true",
+            "sms:required": "sms:false",
             "sms:validationRules": []
         },
         {
@@ -2311,7 +2311,7 @@
                 "@id": "http://schema.biothings.io"
             },
             "sms:displayName": "Dataset Description",
-            "sms:required": "sms:true",
+            "sms:required": "sms:false",
             "sms:validationRules": []
         },
         {
@@ -3425,7 +3425,7 @@
                 }
             ],
             "sms:displayName": "Dataset Assay",
-            "sms:required": "sms:true",
+            "sms:required": "sms:false",
             "sms:validationRules": [
                 "list like"
             ]
@@ -3518,7 +3518,7 @@
                 }
             ],
             "sms:displayName": "Dataset Species",
-            "sms:required": "sms:true",
+            "sms:required": "sms:false",
             "sms:validationRules": [
                 "list like"
             ]
@@ -4091,7 +4091,7 @@
                 }
             ],
             "sms:displayName": "Dataset Tumor Type",
-            "sms:required": "sms:true",
+            "sms:required": "sms:false",
             "sms:validationRules": [
                 "list like"
             ]
@@ -4454,7 +4454,7 @@
                 }
             ],
             "sms:displayName": "Dataset Tissue",
-            "sms:required": "sms:true",
+            "sms:required": "sms:false",
             "sms:validationRules": [
                 "list like"
             ]
@@ -14168,7 +14168,7 @@
                 "@id": "http://schema.biothings.io"
             },
             "sms:displayName": "Tool Description",
-            "sms:required": "sms:true",
+            "sms:required": "sms:false",
             "sms:validationRules": []
         },
         {
@@ -14571,7 +14571,7 @@
                 }
             ],
             "sms:displayName": "Tool Operation",
-            "sms:required": "sms:true",
+            "sms:required": "sms:false",
             "sms:validationRules": [
                 "list like"
             ]
@@ -15033,7 +15033,7 @@
                 }
             ],
             "sms:displayName": "Tool Input Data",
-            "sms:required": "sms:true",
+            "sms:required": "sms:false",
             "sms:validationRules": [
                 "list like"
             ]
@@ -15495,7 +15495,7 @@
                 }
             ],
             "sms:displayName": "Tool Output Data",
-            "sms:required": "sms:true",
+            "sms:required": "sms:false",
             "sms:validationRules": [
                 "list like"
             ]
@@ -15879,7 +15879,7 @@
                 }
             ],
             "sms:displayName": "Tool Input Format",
-            "sms:required": "sms:true",
+            "sms:required": "sms:false",
             "sms:validationRules": [
                 "list like"
             ]
@@ -16263,7 +16263,7 @@
                 }
             ],
             "sms:displayName": "Tool Output Format",
-            "sms:required": "sms:true",
+            "sms:required": "sms:false",
             "sms:validationRules": [
                 "list like"
             ]
